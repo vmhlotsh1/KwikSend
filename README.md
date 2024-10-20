@@ -1,8 +1,10 @@
-# KwikSend
+![Group 33 (1)](https://github.com/user-attachments/assets/730b1080-26a1-4be0-b27c-12858de9b9c5)# KwikSend
 
 KwikSend is a cutting-edge remittance platform designed to provide fast, secure, and affordable cross-border payments. Leveraging Web3 technology, Interledger's API, and TigerBeetle for high-performance transactions, KwikSend enables instant money transfers with transparent fees and real-time tracking.
 
 ---
+<img width="446" alt="Screenshot 2024-10-20 at 12 24 32" src="https://github.com/user-attachments/assets/5a254d1b-6f89-4f5d-988b-3cc06af9aaf0">
+
 
 ## Features
 
