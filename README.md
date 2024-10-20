@@ -115,9 +115,3 @@ We welcome contributions to KwikSend! Here's how you can contribute:
 5. **Open a pull request** to the `dev` branch and describe your changes.
 
 ---
-
-## License
-
-KwikSend is licensed under the [MIT License](LICENSE).
-
----
