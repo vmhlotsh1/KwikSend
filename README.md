@@ -9,8 +9,8 @@ KwikSend is a cutting-edge remittance platform designed to provide fast, secure,
 - **Instant Cross-Border Transfers**: Near-instant transactions across borders, reducing transfer times from days to seconds.
 - **Transparent Fees**: Clear, upfront breakdown of all fees and exchange rates before each transaction.
 - **Real-Time Tracking**: Track transactions from initiation to completion with real-time status updates.
-- **Real-Time Currency Covertion**: Automatically converts currencies at accurate, real-time rates, ensuring fair value for both the sender and the recipient. 
-- **Fee-Free Small Transfers**: A zero-free model for mico-transfers, making the platform accessibleeven to lower-income workers sending smaller amounts. 
+- **Real-Time Currency Conversion**: Automatically converts currencies at accurate, real-time rates, ensuring fair value for both the sender and the recipient. 
+- **Fee-Free Small Transfers**: A zero-free model for mico-transfers, making the platform accessible even to lower-income workers sending smaller amounts. 
 - **Offline Cash-Out**: Access funds even in unbanked or rural areas through local agents.
 
 ---
