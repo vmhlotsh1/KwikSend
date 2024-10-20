@@ -53,16 +53,6 @@ KwikSend is a cutting-edge remittance platform designed to provide fast, secure,
    npm install
    ```
 
-4. **Set up environment variables**: Create a `.env` file in the root directory with the following variables:
-   ```bash
-   WEB3_PROVIDER=<your-web3-provider-url>
-   AWS_ACCESS_KEY_ID=<your-aws-access-key>
-   AWS_SECRET_ACCESS_KEY=<your-aws-secret-key>
-   INTERLEDGER_API_KEY=<your-interledger-api-key>
-   ```
-
----
-
 ## Usage
 
 1. **Run the application locally**:
