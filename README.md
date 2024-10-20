@@ -22,7 +22,6 @@ KwikSend is a cutting-edge remittance platform designed to provide fast, secure,
 - **TigerBeetle**: High-performance database for financial transactions.
 - **TypeScript**: For building scalable and maintainable code.
 - **AWS**: Cloud infrastructure and storage with S3.
-- **ChatGBT**: 
 - **Figma**: For designing platform UI/UX. 
 - **GitHub Actions**: CI/CD automation for testing and deployment.
 
