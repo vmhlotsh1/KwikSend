@@ -9,6 +9,8 @@ KwikSend is a cutting-edge remittance platform designed to provide fast, secure,
 - **Instant Cross-Border Transfers**: Near-instant transactions across borders, reducing transfer times from days to seconds.
 - **Transparent Fees**: Clear, upfront breakdown of all fees and exchange rates before each transaction.
 - **Real-Time Tracking**: Track transactions from initiation to completion with real-time status updates.
+- **Real-Time Currency Covertion**: Automatically converts currencies at accurate, real-time rates, ensuring fair value for both the sender and the recipient. 
+- **Fee-Free Small Transfers**: A zero-free model for mico-transfers, making the platform accessibleeven to lower-income workers sending smaller amounts. 
 - **Offline Cash-Out**: Access funds even in unbanked or rural areas through local agents.
 
 ---
@@ -20,6 +22,8 @@ KwikSend is a cutting-edge remittance platform designed to provide fast, secure,
 - **TigerBeetle**: High-performance database for financial transactions.
 - **TypeScript**: For building scalable and maintainable code.
 - **AWS**: Cloud infrastructure and storage with S3.
+- **ChatGBT**: 
+- **Figma**: For designing platform UI/UX. 
 - **GitHub Actions**: CI/CD automation for testing and deployment.
 
 ---
@@ -28,10 +32,8 @@ KwikSend is a cutting-edge remittance platform designed to provide fast, secure,
 
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [Running Tests](#running-tests)
-4. [Deployment](#deployment)
-5. [Contributing](#contributing)
-6. [License](#license)
+3. [Deployment](#deployment)
+
 
 ---
 
@@ -39,7 +41,7 @@ KwikSend is a cutting-edge remittance platform designed to provide fast, secure,
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/KwikSend.git
+   git clone https://github.com/Liyabonankubevana/KwikSend.git
    ```
 
 2. **Navigate to the project directory**:
